@@ -1,6 +1,5 @@
 
 
-
 ## Olá eu sou o Luiz Paulo, sou um dev em construção.💻 ⚙️ 🔨
 
 ### Acho interessante saber isso sobre mim...
@@ -11,7 +10,14 @@ Gerencio meu tempo de forma equilibrada, dividindo-me entre os estudos na univer
 
 Possuo uma determinação marcante em perseguir meus objetivos passo a passo, o que me impulsiona continuamente em direção ao alcance das metas estabelecidas.
 
+##
 
+<br>
+<div>
+<img align="center" alt="mario" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</div><br>
+
+##
 
 
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizmachadooo87)
