@@ -11,7 +11,7 @@ Gerencio meu tempo de forma equilibrada, dividindo-me entre os estudos na univer
 
 Possuo uma determinação marcante em perseguir meus objetivos passo a passo, o que me impulsiona continuamente em direção ao alcance das metas estabelecidas.
 
-![alt text](image-4.png)
+
 
 
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizmachadooo87)
