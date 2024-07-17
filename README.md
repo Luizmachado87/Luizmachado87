@@ -2,7 +2,7 @@
 
 ## Olá eu sou o Luiz Paulo, sou um dev em construção.💻 ⚙️ 🔨
 
-### Acho interessante saber isso sobre mim...
+### Hi Gyus!!! How are you?
 
 #### Apaixonado por tecnologia e futebol, estou em transição de carreira para a área de TI. Com experiência em gerenciamento de equipes, aplico essas habilidades no desenvolvimento como Desenvolvedor Full Stack. Tenho expertise em Java, JavaScript, HTML, CSS, Git, C, Python, ERP SAP e frameworks como Spring Boot. Estou sempre em busca de aprendizado e inovação para criar soluções tecnológicas eficazes.
 
