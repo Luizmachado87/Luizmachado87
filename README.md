@@ -4,12 +4,13 @@
 
 ### Acho interessante saber isso sobre mim...
 
-#### Atualmente, encontro-me dedicado ao curso de Análise e Desenvolvimento de Sistemas, buscando uma imersão completa na área de tecnologia. Tenho uma abordagem proativa, sempre empenhado em aprender e com uma mentalidade otimista que me impulsiona na busca constante por conhecimento. Sou uma pessoa criativa e interessada, especialmente apaixonado por criar e manter uma sólida rede de contatos. Tenho o hábito de compartilhar ativamente o conhecimento que adquiro, buscando contribuir de maneira significativa.
+#### Apaixonado por tecnologia e futebol, estou em transição de carreira para a área de TI. Com experiência em gerenciamento de equipes, aplico essas habilidades no desenvolvimento como Desenvolvedor Full Stack. Tenho expertise em Java, JavaScript, HTML, CSS, Git, C, Python, ERP SAP e frameworks como Spring Boot. Estou sempre em busca de aprendizado e inovação para criar soluções tecnológicas eficazes.
 
-Gerencio meu tempo de forma equilibrada, dividindo-me entre os estudos na universidade e cursos em plataformas renomadas como Alura, Dio, Udemy e DevMedia, entre outras. Essa abordagem multidimensional enriquece minha formação e me mantém atualizado com as últimas tendências no campo da tecnologia.
+Adoto uma abordagem proativa e otimista, sempre buscando aprender e crescer. Sou criativo e focado em construir uma rede sólida de contatos, compartilhando ativamente meu conhecimento. Meu objetivo é contribuir de maneira significativa para a comunidade e o desenvolvimento de soluções inovadoras.
 
-Possuo uma determinação marcante em perseguir meus objetivos passo a passo, o que me impulsiona continuamente em direção ao alcance das metas estabelecidas.
+Gerencio meu tempo entre estudos e cursos complementares, mantendo-me atualizado com as últimas tendências e tecnologias emergentes. Sou adepto de metodologias ágeis como Scrum e Kanban, garantindo eficiência e qualidade no desenvolvimento de software.
 
+Minha determinação é uma característica marcante, sempre perseguindo a excelência em cada projeto. Estou pronto para enfrentar novos desafios e contribuir com soluções inovadoras e escaláveis no desenvolvimento de sistemas.
 ##
 
 <br>
