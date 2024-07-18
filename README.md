@@ -27,7 +27,7 @@ Minha determinação é uma característica marcante, sempre perseguindo a excel
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luizpaulomachadooo/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luizmachado87)
 
-![Luiz Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizmachado87&theme=midnight-purple)
+[Luiz Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizmachado87&theme=midnight-purple)
 
 ## Tecnologias que utilizo em meu dia:
 
