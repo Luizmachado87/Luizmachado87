@@ -15,8 +15,13 @@ Minha determinação é uma característica marcante, sempre perseguindo a excel
 
 <br>
 <div>
-<img align="center" alt="mario" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="center" alt="mario" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
 </div><br>
+
+
+<div>
+  <img aling="center" alt="pac man" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+</div>
 
 ##
 
